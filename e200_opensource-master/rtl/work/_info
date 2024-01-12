@@ -1,0 +1,1249 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dG:/design 4/LC3_project
+ve203_biu
+Z0 !s110 1693837058
+!i10b 1
+!s100 ;3h@6ZJan9mohd0kfEig21
+IlJ6<Rn<NP1^]_i`Gd706j2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dG:/Code E200/e200_opensource-master/rtl
+Z3 w1616578719
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_biu.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_biu.v
+Z4 L0 29
+Z5 OL;L;10.6c;65
+r1
+!s85 0
+31
+Z6 !s108 1693837058.000000
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_biu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_biu.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+ve203_clk_ctrl
+R0
+!i10b 1
+!s100 zz2kQkSeeR]L:^]m^Ekn32
+ITao>AJ<C18><bCGW<@FZE1
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_clk_ctrl.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_clk_ctrl.v
+Z9 L0 30
+R5
+r1
+!s85 0
+31
+R6
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_clk_ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_clk_ctrl.v|
+!i113 0
+R7
+R8
+ve203_clkgate
+R0
+!i10b 1
+!s100 0cYCJ=c]h25dMCEoO;Jj41
+IgoELbCS<Nk1e8SOUjcnh;1
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_clkgate.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_clkgate.v
+Z10 L0 28
+R5
+r1
+!s85 0
+31
+R6
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_clkgate.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_clkgate.v|
+!i113 0
+R7
+R8
+ve203_core
+R0
+!i10b 1
+!s100 Ge>KhoLVib@U3aHYb5<;Q3
+Ihl><AMjMXd@CNIg0Q2LYm0
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_core.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_core.v
+R9
+R5
+r1
+!s85 0
+31
+R6
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_core.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_core.v|
+!i113 0
+R7
+R8
+ve203_cpu
+Z11 !s110 1693837059
+!i10b 1
+!s100 eHm:EXI=m]IA[<WaLgG=c2
+ISN?]ZZ9cZkY<E3GNAf?Cf0
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_cpu.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_cpu.v
+R9
+R5
+r1
+!s85 0
+31
+Z12 !s108 1693837059.000000
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_cpu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_cpu.v|
+!i113 0
+R7
+R8
+ve203_cpu_top
+R11
+!i10b 1
+!s100 @nMcbFn0MJdfQDAho^UU>2
+I`4n<]dXTi^_mBONN<oJ^c0
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_cpu_top.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_cpu_top.v
+R9
+R5
+r1
+!s85 0
+31
+R12
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_cpu_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_cpu_top.v|
+!i113 0
+R7
+R8
+ve203_dtcm_ctrl
+R11
+!i10b 1
+!s100 e6KTVX9[`E[S:3R<cn]0V2
+I=l[Nc<G4]g4[K^dc]QS4E0
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_dtcm_ctrl.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_dtcm_ctrl.v
+Z13 L0 31
+R5
+r1
+!s85 0
+31
+R12
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_dtcm_ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_dtcm_ctrl.v|
+!i113 0
+R7
+R8
+ve203_dtcm_ram
+R11
+!i10b 1
+!s100 K`0VHa74WLa7j=h2K7eXm2
+Igdk9J_d5?00C5^fWAEeUK1
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_dtcm_ram.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_dtcm_ram.v
+Z14 L0 32
+R5
+r1
+!s85 0
+31
+R12
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_dtcm_ram.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_dtcm_ram.v|
+!i113 0
+R7
+R8
+ve203_extend_csr
+R11
+!i10b 1
+!s100 1BGje8i[k3RlQEo>_HK4]3
+IbCT<_XM3ic1JY7l;jGTF]2
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_extend_csr.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_extend_csr.v
+R14
+R5
+r1
+!s85 0
+31
+R12
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_extend_csr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_extend_csr.v|
+!i113 0
+R7
+R8
+ve203_exu
+Z15 !s110 1693837060
+!i10b 1
+!s100 UihW<IaQVcWaickO^08JO3
+IKW5cJ_]hOaUV6M>7R<J7D1
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu.v
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu.v|
+!i113 0
+R7
+R8
+ve203_exu_alu
+R15
+!i10b 1
+!s100 RXKCS^]:aZ=BLR:I6VE=[2
+I4ZN[S9CN4?d?jZ`HWlnL^0
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu.v
+R14
+R5
+r1
+!s85 0
+31
+Z16 !s108 1693837060.000000
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu.v|
+!i113 0
+R7
+R8
+ve203_exu_alu_bjp
+R15
+!i10b 1
+!s100 7LjediCIS[MS>3oVBM^SQ2
+Inf6_bOC@C>NH6;WngMjL;3
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_bjp.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_bjp.v
+R14
+R5
+r1
+!s85 0
+31
+R16
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_bjp.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_bjp.v|
+!i113 0
+R7
+R8
+ve203_exu_alu_csrctrl
+R15
+!i10b 1
+!s100 M<Ui^D3Lk;c?^;:DXh9Y^3
+Ic;8b;S_?mm8@AIcgL:]3U2
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_csrctrl.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_csrctrl.v
+R4
+R5
+r1
+!s85 0
+31
+R16
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_csrctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_csrctrl.v|
+!i113 0
+R7
+R8
+ve203_exu_alu_dpath
+R15
+!i10b 1
+!s100 TF:mN1QI[nX]Liek]02g>1
+IPnAVJb;>5FO;>:ehTKMV91
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_dpath.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_dpath.v
+R4
+R5
+r1
+!s85 0
+31
+R16
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_dpath.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_dpath.v|
+!i113 0
+R7
+R8
+ve203_exu_alu_lsuagu
+R15
+!i10b 1
+!s100 [Gn17lSQA:_ZeTcm73JO[1
+I:`lc;nXd;maz2AL0EFoUn1
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_lsuagu.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_lsuagu.v
+R14
+R5
+r1
+!s85 0
+31
+R16
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_lsuagu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_lsuagu.v|
+!i113 0
+R7
+R8
+ve203_exu_alu_rglr
+Z17 !s110 1693837061
+!i10b 1
+!s100 @h?KZ70;i8fPo5cckcWC>1
+I_=N<O?96CcH=klST0iPdj2
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_rglr.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_rglr.v
+R9
+R5
+r1
+!s85 0
+31
+Z18 !s108 1693837061.000000
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_rglr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_alu_rglr.v|
+!i113 0
+R7
+R8
+ve203_exu_branchslv
+R17
+!i10b 1
+!s100 EZE^lFU<9]<mY>z2L59WC2
+INNEhWV]QnmfT2Y7h04n:a1
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_branchslv.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_branchslv.v
+R9
+R5
+r1
+!s85 0
+31
+R18
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_branchslv.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_branchslv.v|
+!i113 0
+R7
+R8
+ve203_exu_csr
+R17
+!i10b 1
+!s100 ;kXomZEW>dflTlgSb=:]73
+Ii;F26A`XfA=d3HfGj02A:0
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_csr.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_csr.v
+R4
+R5
+r1
+!s85 0
+31
+R18
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_csr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_csr.v|
+!i113 0
+R7
+R8
+ve203_exu_decode
+R17
+!i10b 1
+!s100 IcJNTeoPNIOi]0@lcbMdS0
+I6lTzMJkNO:]ZOaI5N4QTI0
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_decode.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_decode.v
+R4
+R5
+r1
+!s85 0
+31
+R18
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_decode.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_decode.v|
+!i113 0
+R7
+R8
+ve203_exu_disp
+!s110 1693837062
+!i10b 1
+!s100 0A@Fa]anE0BBa1hO[Oi7[2
+IG0iQWo@h@I[k@Xo^Xa5z51
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_disp.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_disp.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1693837062.000000
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_disp.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_disp.v|
+!i113 0
+R7
+R8
+ve203_exu_excp
+!s110 1693837063
+!i10b 1
+!s100 UZXf]2J9F_H=T3lF49W`R2
+I2?d4UW[=B8[B>_2jDA7eX1
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_excp.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_excp.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1693837063.000000
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_excp.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_excp.v|
+!i113 0
+R7
+R8
+ve203_exu_longpwbck
+Z19 !s110 1693837064
+!i10b 1
+!s100 6iM^ZL<Oi3[Bd_HQ[l1O<0
+IfkYbeGbe81B9F57N]]bcZ3
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_longpwbck.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_longpwbck.v
+R9
+R5
+r1
+!s85 0
+31
+Z20 !s108 1693837064.000000
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_longpwbck.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_longpwbck.v|
+!i113 0
+R7
+R8
+ve203_exu_oitf
+R19
+!i10b 1
+!s100 RY98Y[QTVaYf0DFJCl]V=3
+IGn[o:`0JD[cefJ0cb9El>0
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_oitf.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_oitf.v
+R4
+R5
+r1
+!s85 0
+31
+R20
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_oitf.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_oitf.v|
+!i113 0
+R7
+R8
+ve203_exu_regfile
+R19
+!i10b 1
+!s100 B3HDe[h9NBEV1AH<8Y30F0
+Io[KINO;G^_M63PH1gf4PM3
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_regfile.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_regfile.v
+R10
+R5
+r1
+!s85 0
+31
+R20
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_regfile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_regfile.v|
+!i113 0
+R7
+R8
+ve203_exu_wbck
+R19
+!i10b 1
+!s100 mfNih81?0H04?YF`fE8823
+I^RcJHYND0PEa;n1HVD26<2
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_wbck.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_wbck.v
+R9
+R5
+r1
+!s85 0
+31
+R20
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_wbck.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_exu_wbck.v|
+!i113 0
+R7
+R8
+ve203_ifu
+R19
+!i10b 1
+!s100 LC=T^=;@X91b3@8UKS<`O3
+I48NP9<EZGne8?=3?L<?z81
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_ifu.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_ifu.v
+R4
+R5
+r1
+!s85 0
+31
+R20
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_ifu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_ifu.v|
+!i113 0
+R7
+R8
+ve203_ifu_ift2icb
+!s110 1693837065
+!i10b 1
+!s100 Nzj8<R@ld]YL@Wo<DNoi]1
+I1`ceOH1QG>R<Tlzjo89eb0
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_ifu_ift2icb.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_ifu_ift2icb.v
+R9
+R5
+r1
+!s85 0
+31
+R20
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_ifu_ift2icb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_ifu_ift2icb.v|
+!i113 0
+R7
+R8
+ve203_ifu_litebpu
+Z21 !s110 1693837066
+!i10b 1
+!s100 fGPe4]Q97Tgh2MgM@66nK1
+I]3hol2YJB_1JK2@Q:nEAF3
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_ifu_litebpu.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_ifu_litebpu.v
+R10
+R5
+r1
+!s85 0
+31
+Z22 !s108 1693837066.000000
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_ifu_litebpu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_ifu_litebpu.v|
+!i113 0
+R7
+R8
+ve203_ifu_minidec
+R21
+!i10b 1
+!s100 TiQISin4UjIHei8?04:ce3
+IMdUcnMbJzef;>BXO20lFa1
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_ifu_minidec.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_ifu_minidec.v
+R10
+R5
+r1
+!s85 0
+31
+R22
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_ifu_minidec.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_ifu_minidec.v|
+!i113 0
+R7
+R8
+ve203_irq_sync
+R21
+!i10b 1
+!s100 ZfCn:6Jb6XAPc2;E5MB9k2
+I=037`O<B5JeDUeF?1OkKS3
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_irq_sync.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_irq_sync.v
+R4
+R5
+r1
+!s85 0
+31
+R22
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_irq_sync.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_irq_sync.v|
+!i113 0
+R7
+R8
+ve203_itcm_ctrl
+Z23 !s110 1693837067
+!i10b 1
+!s100 E;g9C;=@I@XT7_Zb<YZT<3
+I09H_Uo:bCR<^TjCG^Bo_>1
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_itcm_ctrl.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_itcm_ctrl.v
+R13
+R5
+r1
+!s85 0
+31
+Z24 !s108 1693837067.000000
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_itcm_ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_itcm_ctrl.v|
+!i113 0
+R7
+R8
+ve203_itcm_ram
+R23
+!i10b 1
+!s100 P9R6<3EXCCY[IN5jmOHQV0
+IObf;XbAD96dBd@kaW4aR;3
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_itcm_ram.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_itcm_ram.v
+R9
+R5
+r1
+!s85 0
+31
+R24
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_itcm_ram.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_itcm_ram.v|
+!i113 0
+R7
+R8
+ve203_lsu
+R23
+!i10b 1
+!s100 gZBa63CKUHR0kziG8XZ<>1
+IbmP_=k7W^@;l;mafBQ@VJ0
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_lsu.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_lsu.v
+R10
+R5
+r1
+!s85 0
+31
+R24
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_lsu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_lsu.v|
+!i113 0
+R7
+R8
+ve203_lsu_ctrl
+R23
+!i10b 1
+!s100 1eYgR5QHaHPCg1KddIXzS1
+I@Pe_f@G:M0OJAZ[EER0NJ1
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_lsu_ctrl.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_lsu_ctrl.v
+R10
+R5
+r1
+!s85 0
+31
+R24
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_lsu_ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_lsu_ctrl.v|
+!i113 0
+R7
+R8
+ve203_reset_ctrl
+R23
+!i10b 1
+!s100 o^Plg0:=0`k4?U1Q1RN710
+I=<kVTUL?a0AA2f4>PA43f0
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_reset_ctrl.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_reset_ctrl.v
+R4
+R5
+r1
+!s85 0
+31
+R24
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_reset_ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_reset_ctrl.v|
+!i113 0
+R7
+R8
+ve203_srams
+R23
+!i10b 1
+!s100 k7:8e`4eL0Z?2L_zS_TJM0
+I`KUYi2f^Dz2^n8n^kNdT71
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/core/e203_srams.v
+FG:/Code E200/e200_opensource-master/rtl/e203/core/e203_srams.v
+R9
+R5
+r1
+!s85 0
+31
+R24
+!s107 G:\Code E200\e200_opensource-master\rtl\e203\core\config.v|G:\Code E200\e200_opensource-master\rtl\e203\core\e203_defines.v|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_srams.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/core/e203_srams.v|
+!i113 0
+R7
+R8
+vsirv_1cyc_sram_ctrl
+Z25 !s110 1693837068
+!i10b 1
+!s100 m:1Y32RV:`dPSNlh9H?NE0
+Ie59EGjK9`RTU2]1N9OPZZ2
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_1cyc_sram_ctrl.v
+FG:/Code E200/e200_opensource-master/rtl/e203/general/sirv_1cyc_sram_ctrl.v
+R4
+R5
+r1
+!s85 0
+31
+R24
+!s107 G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_1cyc_sram_ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_1cyc_sram_ctrl.v|
+!i113 0
+R7
+R8
+vsirv_gnrl_axi_buffer
+R25
+!i10b 1
+!s100 `z8l<eJnKTj0O5SeXEIVJ0
+Ij^R5WJ=WY8PM0l]5[[;Li2
+R1
+R2
+R3
+Z26 8G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_gnrl_icbs.v
+Z27 FG:/Code E200/e200_opensource-master/rtl/e203/general/sirv_gnrl_icbs.v
+L0 1468
+R5
+r1
+!s85 0
+31
+Z28 !s108 1693837068.000000
+Z29 !s107 G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_gnrl_icbs.v|
+Z30 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_gnrl_icbs.v|
+!i113 0
+R7
+R8
+vsirv_gnrl_bypbuf
+R25
+!i10b 1
+!s100 @iUKCn^>oNHWTK?d34S]13
+IN9Bede@kK9[LWLMkY98e]2
+R1
+R2
+R3
+Z31 8G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_gnrl_bufs.v
+Z32 FG:/Code E200/e200_opensource-master/rtl/e203/general/sirv_gnrl_bufs.v
+L0 306
+R5
+r1
+!s85 0
+31
+R28
+Z33 !s107 G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_gnrl_bufs.v|
+Z34 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_gnrl_bufs.v|
+!i113 0
+R7
+R8
+vsirv_gnrl_cdc_rx
+R25
+!i10b 1
+!s100 4oK]=VGGgG;Vb?G3FLc;<1
+Iob[QF8L=eH06DP20?9c6i1
+R1
+R2
+R3
+R31
+R32
+L0 142
+R5
+r1
+!s85 0
+31
+R28
+R33
+R34
+!i113 0
+R7
+R8
+vsirv_gnrl_cdc_tx
+R25
+!i10b 1
+!s100 _2Pf[@91AW70I`R[ON@k71
+I=_=DOL=o24VDI8glP5NER1
+R1
+R2
+R3
+R31
+R32
+L0 223
+R5
+r1
+!s85 0
+31
+R28
+R33
+R34
+!i113 0
+R7
+R8
+vsirv_gnrl_dffl
+R25
+!i10b 1
+!s100 Vcn:C_Ih^I6X[MDW0Pdg13
+I[gRAhGW>ZI5ZhVL0P4gM<0
+R1
+R2
+R3
+Z35 8G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_gnrl_dffs.v
+Z36 FG:/Code E200/e200_opensource-master/rtl/e203/general/sirv_gnrl_dffs.v
+L0 133
+R5
+r1
+!s85 0
+31
+R28
+Z37 !s107 G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_gnrl_dffs.v|
+Z38 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_gnrl_dffs.v|
+!i113 0
+R7
+R8
+vsirv_gnrl_dfflr
+R25
+!i10b 1
+!s100 LzPJFM8[CMS^JNE:;41m`1
+ImfH2Pn1W5Od>IW`]z1LPY2
+R1
+R2
+R3
+R35
+R36
+L0 87
+R5
+r1
+!s85 0
+31
+R28
+R37
+R38
+!i113 0
+R7
+R8
+vsirv_gnrl_dfflrs
+R25
+!i10b 1
+!s100 Un_SCl`6A2ND1jL:TII5a0
+IQhUNSEhj>m^nNKPAZ9mW@0
+R1
+R2
+R3
+R35
+R36
+L0 40
+R5
+r1
+!s85 0
+31
+R28
+R37
+R38
+!i113 0
+R7
+R8
+vsirv_gnrl_dffr
+R25
+!i10b 1
+!s100 WLA8]K<DiUJX=WIBAM]5>0
+IdWCDlNi`^=9AK<FBQ0W0V2
+R1
+R2
+R3
+R35
+R36
+L0 209
+R5
+r1
+!s85 0
+31
+R28
+R37
+R38
+!i113 0
+R7
+R8
+vsirv_gnrl_dffrs
+R25
+!i10b 1
+!s100 ng:i1bY4EkN8Z3^?OV?=S2
+IXc]:BDR<d6;znJe`k19m@1
+R1
+R2
+R3
+R35
+R36
+L0 177
+R5
+r1
+!s85 0
+31
+R28
+R37
+R38
+!i113 0
+R7
+R8
+vsirv_gnrl_fifo
+R25
+!i10b 1
+!s100 1dc4l8F?FGMDDOdPXjZ<J1
+In^V^_j7730Qm?TZMVO6JI3
+R1
+R2
+R3
+R31
+R32
+L0 381
+R5
+r1
+!s85 0
+31
+R28
+R33
+R34
+!i113 0
+R7
+R8
+vsirv_gnrl_icb2apb
+R25
+!i10b 1
+!s100 LX4ETMg]MWR=zi_BBlCd:3
+I_CaikdbGg1=E8;7Qb26=82
+R1
+R2
+R3
+R26
+R27
+L0 1385
+R5
+r1
+!s85 0
+31
+R28
+R29
+R30
+!i113 0
+R7
+R8
+vsirv_gnrl_icb2axi
+R25
+!i10b 1
+!s100 Lgf957dEfPBL@_6oZNhzQ3
+IGYlGkYE;YTIL_Ifj?LQdU0
+R1
+R2
+R3
+R26
+R27
+L0 1007
+R5
+r1
+!s85 0
+31
+R28
+R29
+R30
+!i113 0
+R7
+R8
+vsirv_gnrl_icb32towishb8
+R25
+!i10b 1
+!s100 =P3>@89<4FgRz3b]lZ=kE3
+IL<ZL]NzW88oi]:8nE=O>o2
+R1
+R2
+R3
+R26
+R27
+L0 1300
+R5
+r1
+!s85 0
+31
+R28
+R29
+R30
+!i113 0
+R7
+R8
+vsirv_gnrl_icb_arbt
+R25
+!i10b 1
+!s100 VIP05WhfRQ>4jU@Se[Ve12
+IFH5Ya`?dblg7z5UYiDlZ63
+R1
+R2
+R3
+R26
+R27
+L0 37
+R5
+r1
+!s85 0
+31
+R28
+R29
+R30
+!i113 0
+R7
+R8
+vsirv_gnrl_icb_buffer
+R25
+!i10b 1
+!s100 iUBS2T4?I4a08HzhC6;lI1
+IEKI9WDZgeM_k55chIB2F<1
+R1
+R2
+R3
+R26
+R27
+L0 351
+R5
+r1
+!s85 0
+31
+R28
+R29
+R30
+!i113 0
+R7
+R8
+vsirv_gnrl_icb_n2w
+R25
+!i10b 1
+!s100 ERc@SE<[fjI6JnPYJI<MM2
+I^c=RY5UHMLT6]^>lb:6SL2
+R1
+R2
+R3
+R26
+R27
+L0 503
+R5
+r1
+!s85 0
+31
+R28
+R29
+R30
+!i113 0
+R7
+R8
+vsirv_gnrl_icb_splt
+R25
+!i10b 1
+!s100 EX9_>j0l5b>ikeWM@PzXj3
+I:E5b5Y>J0aW?TWPQig?>m3
+R1
+R2
+R3
+R26
+R27
+L0 648
+R5
+r1
+!s85 0
+31
+R28
+R29
+R30
+!i113 0
+R7
+R8
+vsirv_gnrl_pipe_stage
+R25
+!i10b 1
+!s100 1I4INW5WAG7n?QjA]1b?>3
+IDPCmeg_WI_>^jV?EJD0kf3
+R1
+R2
+R3
+R31
+R32
+R10
+R5
+r1
+!s85 0
+31
+R28
+R33
+R34
+!i113 0
+R7
+R8
+vsirv_gnrl_ram
+R25
+!i10b 1
+!s100 kj6Q_>;1><<ooU7ZVCVQE0
+I3]Hj1Li;2H=W?AmfzLdV;3
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_gnrl_ram.v
+FG:/Code E200/e200_opensource-master/rtl/e203/general/sirv_gnrl_ram.v
+R10
+R5
+r1
+!s85 0
+31
+R28
+!s107 G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_gnrl_ram.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_gnrl_ram.v|
+!i113 0
+R7
+R8
+vsirv_gnrl_sync
+R25
+!i10b 1
+!s100 ESV8cG=O8[_KOGWlT>9@O1
+I<K<`S8O<>?E<U8VL2UL@51
+R1
+R2
+R3
+R31
+R32
+L0 99
+R5
+r1
+!s85 0
+31
+R28
+R33
+R34
+!i113 0
+R7
+R8
+vsirv_sim_ram
+Z39 !s110 1693837069
+!i10b 1
+!s100 Q?5H;G5hM9oOVXcUi47VG3
+I`S2VS5gMLC3FeM;N_B]Y>1
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_sim_ram.v
+FG:/Code E200/e200_opensource-master/rtl/e203/general/sirv_sim_ram.v
+L0 27
+R5
+r1
+!s85 0
+31
+R28
+!s107 G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_sim_ram.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_sim_ram.v|
+!i113 0
+R7
+R8
+vsirv_sram_icb_ctrl
+R39
+!i10b 1
+!s100 ^OA?TTVH8G]CL60bMZaPV1
+I6C527]JV]J74Tbhm`>6ZZ0
+R1
+R2
+R3
+8G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_sram_icb_ctrl.v
+FG:/Code E200/e200_opensource-master/rtl/e203/general/sirv_sram_icb_ctrl.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1693837069.000000
+!s107 G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_sram_icb_ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/Code E200/e200_opensource-master/rtl/e203/general/sirv_sram_icb_ctrl.v|
+!i113 0
+R7
+R8
